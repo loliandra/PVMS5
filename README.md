@@ -16,9 +16,6 @@
 # Usage
 Romanenkova Lolita, 13b gr
 
-# Building
-main
-
 # Additional Notes
 - [docs.google.com/document/d/1bBiELpPSMeW2yOxYrGdivFbtkEk8_CG3/edit?usp=sharing&ouid=114162938361881704160&rtpof=true&sd=true](https://docs.google.com/document/d/1bBiELpPSMeW2yOxYrGdivFbtkEk8_CG3/edit?usp=sharing&ouid=114162938361881704160&rtpof=true&sd=true)
 
